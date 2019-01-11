@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="_CS__TypeSwitcher.CustomToolTip"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:_CS__TypeSwitcher"
+             mc:Ignorable="d" Height="33" Width="132.25">
+    <DockPanel LastChildFill="False" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <TextBlock FontSize="20" Foreground="Cyan" FontFamily="Comic Sans MS">TypeSwitcher</TextBlock>
+    </DockPanel>
+</UserControl>
